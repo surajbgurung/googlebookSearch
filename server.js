@@ -17,7 +17,7 @@ if (process.env.NODE_ENV === "production") {
 
 let MONGODB_URI =
   process.env.MONGODB_URI ||
-  "mongodb://user:password2@ds063240.mlab.com:63240/heroku_278jkk9v";
+  "mongodb://user:suraj123@ds139781.mlab.com:39781/heroku_12b8t8c0";
 mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
