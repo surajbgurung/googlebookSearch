@@ -1,0 +1,9 @@
+.jumbotron {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-image: url(https://i.imgur.com/XFCrR7K.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: auto;
+    opacity: 0.7;
+}
+
