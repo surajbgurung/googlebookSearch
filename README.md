@@ -44,7 +44,21 @@ Your app should now be running on http://localhost:3000. The Express server shou
 
 
 ## Demostration
-![employee](./googlebookSearch.gif)
+### Landing Page
+
+![book](./images/booksearch.png)
+
+### Search Books
+
+![book](./images/searchbook.png)
+
+### User can Save and Delete the books.
+
+![book](./images/saveBook.png)
+
+### Full Demo
+
+![book](./images/googlebookSearch.gif)
 
 
 
